@@ -1,4 +1,4 @@
-# Hi there, I'm Connor! 
+# Hi there, I'm Connor! :)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cmusson&show_icons=true&theme=radical" />
 
